@@ -9,4 +9,4 @@
 - 📸 Instagram: [@hazelazkk](https://instagram.com/hazelazkk)
 
 ## Statistik GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=muhammadhazel&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=hallohazel&show_icons=true&theme=radical)
